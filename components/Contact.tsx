@@ -74,7 +74,7 @@ export default function Contact() {
               lineHeight: 1.88,
               marginBottom: "2.5rem",
             }}>
-              I am actively seeking opportunities to bring meticulous data management and client-centric excellence to a forward-thinking team. Whether you have a role, a project, or simply want to connect — my inbox is always open.
+              I am actively seeking opportunities to bring meticulous data management and client-centric excellence to a forward-thinking team. Whether you have a role, a project, or simply want to connect my inbox is always open.
             </p>
 
             <div style={{ display: "flex", flexDirection: "column", gap: 0 }}>
@@ -155,7 +155,7 @@ export default function Contact() {
 
             <div style={{ display: "flex", flexDirection: "column", gap: "0.85rem", alignItems: "flex-start" }}>
               <a
-                href="/david-bilewumi-resume.pdf"
+                href="/David-Bilewumi-Resume.pdf"
                 download="David-Bilewumi-Resume.pdf"
                 style={{
                   display: "inline-block",

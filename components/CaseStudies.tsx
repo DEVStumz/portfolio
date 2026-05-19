@@ -8,13 +8,13 @@ const cases = [
     type: "Data Entry Focus",
     title: "Data Architecture Optimization",
     situation:
-      "The department was operating with a legacy database plagued by duplicate records, inconsistent formatting, and outdated client information — slowing down both the sales and support teams and compromising operational integrity.",
+      "The department was operating with a legacy database plagued by duplicate records, inconsistent formatting, and outdated client information slowing down both the sales and support teams and compromising operational integrity.",
     task:
-      "Auditing, cleansing, and migrating a large volume of client profiles into a new centralized CRM system — within a tight deadline, while maintaining zero downtime for active users.",
+      "Auditing, cleansing, and migrating a large volume of client profiles into a new centralized CRM system within a tight deadline, while maintaining zero downtime for active users.",
     action:
       "Formulated a systematic data-cleansing protocol to cross-reference and eliminate duplicates. Standardized formatting across all custom fields, built an automated validation workflow for new entries, and meticulously hand-verified high-priority accounts. Managed the final migration after hours to ensure uninterrupted standard operations.",
     result:
-      "100% of data migrated with zero data loss and absolute accuracy — significantly accelerating internal response times and saving hours of manual search effort per week.",
+      "100% of data migrated with zero data loss and absolute accuracy significantly accelerating internal response times and saving hours of manual search effort per week.",
   },
   {
     number: "02",
@@ -23,11 +23,11 @@ const cases = [
     situation:
       "During a major service transition, customer inquiry volume spiked sharply, leading to prolonged wait times, a backlog of unresolved tickets, and a measurable dip in client satisfaction scores.",
     task:
-      "Assigned to lead the communication frontline — de-escalating high-stress client calls, clearing the ticket backlog, and re-establishing client trust under significant pressure.",
+      "Assigned to lead the communication frontline de-escalating high-stress client calls, clearing the ticket backlog, and re-establishing client trust under significant pressure.",
     action:
       "Developed a triaging workflow to categorize tickets by urgency, ensuring high-risk issues were addressed immediately. Authored a set of clear, empathetic communication templates for common queries. Personally handled the most severely escalated calls — actively listening, offering immediate remediations, and following up post-resolution.",
     result:
-      "Cleared the full ticket backlog, restored average response times, and boosted personal CSAT scores — turning frustrated callers into brand advocates and preventing critical client churn.",
+      "Cleared the full ticket backlog, restored average response times, and boosted personal CSAT scores turning frustrated callers into brand advocates and preventing critical client churn.",
   },
 ];
 

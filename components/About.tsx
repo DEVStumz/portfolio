@@ -69,7 +69,7 @@ export default function About() {
               while serving as a welcoming, professional front-face for growing brands.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
-              My administrative approach is rooted in the belief that an organization&apos;s internal efficiency directly impacts its external client experience. Whether auditing complex databases, managing multi-line communications, or resolving intricate customer inquiries — I bring meticulous attention to detail and a proactive problem-solving mindset to every task.
+              My administrative approach is rooted in the belief that an organization&apos;s internal efficiency directly impacts its external client experience. Whether auditing complex databases, managing multi-line communications, or resolving intricate customer inquiries. I bring meticulous attention to detail and a proactive problem-solving mindset to every task.
             </p>
             <p style={{ marginTop: "1.2rem" }}>
               Beyond standard task execution, I look for opportunities to{" "}
@@ -107,7 +107,7 @@ export default function About() {
               position: "relative",
               zIndex: 1,
             }}>
-              Administrative support is not merely about managing tasks; it is about engineering the framework that allows an organization to scale seamlessly. Pristine data integrity and exceptional customer service are the true cornerstones of business growth — and my mission is to execute both with absolute excellence.
+              Administrative support is not merely about managing tasks; it is about engineering the framework that allows an organization to scale seamlessly. Pristine data integrity and exceptional customer service are the true cornerstones of business growth and my mission is to execute both with absolute excellence.
             </p>
             <p style={{
               marginTop: "1.5rem",

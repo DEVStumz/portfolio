@@ -80,7 +80,7 @@ export default function Hero() {
             lineHeight: 1.85,
           }}
         >
-          Transforming operational chaos into precision-engineered systems — where absolute data integrity meets exceptional client experience.
+          Transforming operational chaos into precision-engineered systems where absolute data integrity meets exceptional client experience.
         </motion.p>
 
         <motion.div
