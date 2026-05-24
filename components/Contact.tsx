@@ -155,8 +155,8 @@ export default function Contact() {
 
             <div style={{ display: "flex", flexDirection: "column", gap: "0.85rem", alignItems: "flex-start" }}>
               <a
-                href="/David-Bilewumi-Resume.docx"
-                download="David-Bilewumi-Resume.docx"
+                href="/David-Bilewumi-Resume.pdf"
+                download="David-Bilewumi-Resume.pdf"
                 style={{
                   display: "inline-block",
                   background: "var(--gold)",
